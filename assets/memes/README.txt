@@ -1,0 +1,1 @@
+All these memes are from the #meme-folder channel in our Discord server!

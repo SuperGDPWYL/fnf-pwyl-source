@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FireIce.png"><SubTexture name="FireIce idle0000" x="0" y="0" width="235" height="150" frameX="0" frameY="0" frameWidth="235" frameHeight="150" />
+<SubTexture name="FireIce left0000" x="235" y="0" width="299" height="150" frameX="0" frameY="0" frameWidth="299" frameHeight="150" />
+<SubTexture name="FireIce right0000" x="534" y="0" width="254" height="163" frameX="0" frameY="0" frameWidth="254" frameHeight="163" />
+<SubTexture name="FireIce up0000" x="788" y="0" width="226" height="184" frameX="0" frameY="0" frameWidth="226" frameHeight="184" />
+<SubTexture name="FireIce down0000" x="0" y="184" width="170" height="150" frameX="0" frameY="0" frameWidth="170" frameHeight="150" />
+</TextureAtlas>

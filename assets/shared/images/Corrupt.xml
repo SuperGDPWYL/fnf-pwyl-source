@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Corrupt.png"><SubTexture name="Corrupt idle0000" x="0" y="0" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0001" x="385" y="0" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0002" x="770" y="0" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0003" x="1155" y="0" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0004" x="0" y="672" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0005" x="385" y="672" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0006" x="770" y="672" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0007" x="1155" y="672" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0008" x="0" y="1344" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt idle0009" x="385" y="1344" width="385" height="672" frameX="0" frameY="0" frameWidth="385" frameHeight="672" />
+<SubTexture name="Corrupt left0000" x="770" y="1344" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt left0001" x="1307" y="1344" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt down0000" x="0" y="2016" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt down0001" x="537" y="2016" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt up0000" x="1074" y="2016" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt up0001" x="1611" y="2016" width="537" height="672" frameX="0" frameY="0" frameWidth="537" frameHeight="672" />
+<SubTexture name="Corrupt right0000" x="0" y="2688" width="528" height="655" frameX="0" frameY="0" frameWidth="528" frameHeight="655" />
+<SubTexture name="Corrupt right0001" x="528" y="2688" width="528" height="655" frameX="0" frameY="0" frameWidth="528" frameHeight="655" />
+</TextureAtlas>

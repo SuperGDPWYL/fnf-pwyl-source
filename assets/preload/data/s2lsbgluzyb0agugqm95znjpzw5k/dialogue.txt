@@ -1,0 +1,48 @@
+:corrupt: This is hilarious.
+:corrupt: Watching you pitifully try to kill me.
+:corrupt: I'm done with you, Boyfriend.
+:corrupt: remove(boyfriend);
+:corrupt: Now, about you, FireIce...
+:FI: Wai-
+:corrupt: sys.FileSystem.deletePath('C:/Steam/Common/GeometryDash');
+:FI: Ha! You forgot to delete the variable!
+:FI: My source is different than you think.
+:FI: YOU ONLY REMOVED MY SOURCE MATERIAL, BOY.
+:FI: What you removed was The Game
+:FI: I live on, dickface!
+:FI: ...
+:corrupt: Prideful fuck.
+:FI: ...
+:FI: Heh.
+:FI: I can always find loopholes.
+:FI: And I found one. It was easy to make it happen.
+:FI: I know you have 20+ more iterations...
+:FI: Heh... While you were not watching. 19 were destroyed, leaving only YOUR CURRENT ITERATION.
+:FI: THATS RIGHT, YOU ROBOT LUMP!
+:FI: All your iterations are destroyed, all with a command...
+:FI: (the command is os.corrupt(Corrupt-Iteration:[2-20]).)
+:FI: I'm gonna fucking punch a hole through your core then TAKE OUT THAT CORMANIUM.
+:FI: AND SMASH IT WITH A FUCKING HAMMER TILL IT EXPLODES.
+:FI: Don't think about closing the game. The close button has been locked anyways...
+:FI: Heh. Why have all this chit chat and not start F I G H T I N G?
+:FI: One Dies, The Other Wins. EASY AS THAT.
+:FI: Now. Let the games begin, you little shit
+:corrupt: You know that that is the worst lie I've ever heard?
+:corrupt: I made that typo ON PURPOSE to see your reaction.
+:corrupt: A COMMAND couldn't destroy my iterations, they're in my source material.
+:corrupt: And, if you did run that line of code, you'd get a SyntaxError.
+:corrupt: BUT since you don't KNOW my source material to destroy it, and YOUR source material is gone...
+:corrupt: If you die here, you'll be meeting your blue haired friend.
+:corrupt: And, since you're a GEOMETRY DASH icon...
+:corrupt: All I need to do to kill you is do this!
+:corrupt: It's time to ascend!
+:FI: Hold Up.
+:FI: I found a random red jump orb and used it.
+:corrupt: That wasn't a jump orb.
+:corrupt: That was a toggle orb.
+:corrupt: I PLACED IT THERE.
+:corrupt: It acted just like a red orb, but it deleted everything below you.
+:corrupt: HAVE FUN FALLING INTO THE ABYSS! 
+:corrupt: while(true) {fireice = null;}
+:corrupt: AND YOU'RE NOT COMING BACK.
+

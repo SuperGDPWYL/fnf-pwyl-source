@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dodge.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BLAST0000" x="0" y="0" width="109" height="114" frameX="-945" frameY="0" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0001" x="0" y="0" width="109" height="114" frameX="-945" frameY="0" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0002" x="0" y="0" width="109" height="114" frameX="-945" frameY="0" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0003" x="0" y="0" width="109" height="114" frameX="-945" frameY="0" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0004" x="0" y="114" width="2039" height="142" frameX="0" frameY="-2" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0005" x="0" y="114" width="2039" height="142" frameX="0" frameY="-2" frameWidth="2039" frameHeight="144"/>
+	<SubTexture name="BLAST0006" x="0" y="114" width="2039" height="142" frameX="0" frameY="-2" frameWidth="2039" frameHeight="144"/>
+</TextureAtlas>

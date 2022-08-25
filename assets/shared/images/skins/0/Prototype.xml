@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Prototype.png"><SubTexture name="Prototype Attack0000" x="0" y="0" width="672" height="732" frameX="0" frameY="0" frameWidth="672" frameHeight="732" />
+<SubTexture name="Prototype Attack0001" x="672" y="0" width="675" height="735" frameX="0" frameY="0" frameWidth="675" frameHeight="735" />
+<SubTexture name="Prototype Down0000" x="1347" y="0" width="801" height="665" frameX="0" frameY="0" frameWidth="801" frameHeight="665" />
+<SubTexture name="Prototype Down0001" x="2148" y="0" width="774" height="655" frameX="0" frameY="0" frameWidth="774" frameHeight="655" />
+<SubTexture name="Prototype Down0002" x="0" y="735" width="772" height="659" frameX="0" frameY="0" frameWidth="772" frameHeight="659" />
+<SubTexture name="Prototype Idle0000" x="772" y="735" width="654" height="730" frameX="0" frameY="0" frameWidth="654" frameHeight="730" />
+<SubTexture name="Prototype Idle0001" x="1426" y="735" width="726" height="704" frameX="0" frameY="0" frameWidth="726" frameHeight="704" />
+<SubTexture name="Prototype Idle0002" x="2152" y="735" width="712" height="724" frameX="0" frameY="0" frameWidth="712" frameHeight="724" />
+<SubTexture name="Prototype Idle0003" x="0" y="1465" width="680" height="730" frameX="0" frameY="0" frameWidth="680" frameHeight="730" />
+<SubTexture name="Prototype Left0000" x="680" y="1465" width="757" height="686" frameX="0" frameY="0" frameWidth="757" frameHeight="686" />
+<SubTexture name="Prototype Left0001" x="1437" y="1465" width="767" height="686" frameX="0" frameY="0" frameWidth="767" frameHeight="686" />
+<SubTexture name="Prototype Left0002" x="2204" y="1465" width="772" height="686" frameX="0" frameY="0" frameWidth="772" frameHeight="686" />
+<SubTexture name="Prototype Right0000" x="0" y="2195" width="714" height="698" frameX="0" frameY="0" frameWidth="714" frameHeight="698" />
+<SubTexture name="Prototype Right0001" x="714" y="2195" width="708" height="703" frameX="0" frameY="0" frameWidth="708" frameHeight="703" />
+<SubTexture name="Prototype Right0002" x="1422" y="2195" width="700" height="704" frameX="0" frameY="0" frameWidth="700" frameHeight="704" />
+<SubTexture name="Prototype Up0000" x="2122" y="2195" width="666" height="746" frameX="0" frameY="0" frameWidth="666" frameHeight="746" />
+<SubTexture name="Prototype Up0001" x="0" y="2941" width="679" height="725" frameX="0" frameY="0" frameWidth="679" frameHeight="725" />
+<SubTexture name="Prototype Up0002" x="679" y="2941" width="698" height="721" frameX="0" frameY="0" frameWidth="698" frameHeight="721" />
+</TextureAtlas>

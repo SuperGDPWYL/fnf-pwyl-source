@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mysterynomore.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normalport0000" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0001" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0002" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0003" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0004" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0005" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0006" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0007" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0008" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0009" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0010" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0011" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0012" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="normalport0013" x="0" y="0" width="269" height="585"/>
+</TextureAtlas>

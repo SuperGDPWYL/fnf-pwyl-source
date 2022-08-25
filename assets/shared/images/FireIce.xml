@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FireIce.png"><SubTexture name="FireIce idle0000" x="0" y="0" width="466" height="296" frameX="0" frameY="0" frameWidth="466" frameHeight="296" />
+<SubTexture name="FireIce idle0001" x="466" y="0" width="469" height="296" frameX="0" frameY="0" frameWidth="469" frameHeight="296" />
+<SubTexture name="FireIce idle0002" x="935" y="0" width="469" height="296" frameX="0" frameY="0" frameWidth="469" frameHeight="296" />
+<SubTexture name="FireIce idle0003" x="1404" y="0" width="480" height="296" frameX="0" frameY="0" frameWidth="480" frameHeight="296" />
+<SubTexture name="FireIce Left0000" x="0" y="296" width="504" height="300" frameX="0" frameY="0" frameWidth="504" frameHeight="300" />
+<SubTexture name="FireIce Left0001" x="504" y="296" width="504" height="300" frameX="0" frameY="0" frameWidth="504" frameHeight="300" />
+<SubTexture name="FireIce Left0002" x="1008" y="296" width="492" height="314" frameX="0" frameY="0" frameWidth="492" frameHeight="314" />
+<SubTexture name="FireIce Left0003" x="1500" y="296" width="492" height="314" frameX="0" frameY="0" frameWidth="492" frameHeight="314" />
+<SubTexture name="FireIce Left0004" x="0" y="610" width="482" height="329" frameX="0" frameY="0" frameWidth="482" frameHeight="329" />
+<SubTexture name="FireIce Left0005" x="482" y="610" width="478" height="351" frameX="0" frameY="0" frameWidth="478" frameHeight="351" />
+<SubTexture name="FireIce Right0000" x="960" y="610" width="482" height="316" frameX="0" frameY="0" frameWidth="482" frameHeight="316" />
+<SubTexture name="FireIce Right0001" x="1442" y="610" width="493" height="316" frameX="0" frameY="0" frameWidth="493" frameHeight="316" />
+<SubTexture name="FireIce Right0002" x="0" y="961" width="506" height="316" frameX="0" frameY="0" frameWidth="506" frameHeight="316" />
+<SubTexture name="FireIce Right0003" x="506" y="961" width="517" height="317" frameX="0" frameY="0" frameWidth="517" frameHeight="317" />
+<SubTexture name="FireIce Up0000" x="1023" y="961" width="424" height="350" frameX="0" frameY="0" frameWidth="424" frameHeight="350" />
+<SubTexture name="FireIce Up0001" x="1447" y="961" width="433" height="344" frameX="0" frameY="0" frameWidth="433" frameHeight="344" />
+<SubTexture name="FireIce Up0002" x="0" y="1311" width="451" height="333" frameX="0" frameY="0" frameWidth="451" frameHeight="333" />
+<SubTexture name="FireIce Up0003" x="451" y="1311" width="451" height="334" frameX="0" frameY="0" frameWidth="451" frameHeight="334" />
+<SubTexture name="FireIce Down0000" x="902" y="1311" width="446" height="300" frameX="0" frameY="0" frameWidth="446" frameHeight="300" />
+<SubTexture name="FireIce Down0001" x="1348" y="1311" width="452" height="300" frameX="0" frameY="0" frameWidth="452" frameHeight="300" />
+<SubTexture name="FireIce Down0002" x="0" y="1645" width="454" height="300" frameX="0" frameY="0" frameWidth="454" frameHeight="300" />
+<SubTexture name="FireIce Down0003" x="454" y="1645" width="457" height="302" frameX="0" frameY="0" frameWidth="457" frameHeight="302" />
+</TextureAtlas>

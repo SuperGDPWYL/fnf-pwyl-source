@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ohfuck.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ohfuck0000" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0001" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0002" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0003" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0004" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0005" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0006" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0007" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0008" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0009" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0010" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0011" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0012" x="0" y="0" width="499" height="608"/>
+	<SubTexture name="ohfuck0013" x="0" y="0" width="499" height="608"/>
+</TextureAtlas>

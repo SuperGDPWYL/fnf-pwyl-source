@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yakobGun.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1 in0000" x="0" y="0" width="189" height="107"/>
+	<SubTexture name="2 in0000" x="189" y="0" width="189" height="107"/>
+	<SubTexture name="3 in0000" x="378" y="0" width="189" height="107"/>
+	<SubTexture name="4 in0000" x="567" y="0" width="189" height="107"/>
+	<SubTexture name="Mag0000" x="756" y="0" width="189" height="107"/>
+	<SubTexture name="a bullet0000" x="945" y="0" width="22" height="91"/>
+	<SubTexture name="loaded 10000" x="0" y="107" width="189" height="219"/>
+	<SubTexture name="loaded 10001" x="189" y="107" width="189" height="170" frameX="0" frameY="0" frameWidth="189" frameHeight="219"/>
+	<SubTexture name="loaded 10002" x="378" y="107" width="189" height="123" frameX="0" frameY="0" frameWidth="189" frameHeight="219"/>
+	<SubTexture name="loaded 10003" x="567" y="107" width="189" height="107" frameX="0" frameY="0" frameWidth="189" frameHeight="219"/>
+	<SubTexture name="loaded 20000" x="756" y="107" width="189" height="208"/>
+	<SubTexture name="loaded 20001" x="0" y="326" width="189" height="166" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 20002" x="189" y="326" width="189" height="131" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 20003" x="378" y="326" width="189" height="108" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 30000" x="567" y="326" width="189" height="208"/>
+	<SubTexture name="loaded 30001" x="756" y="326" width="189" height="163" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 30002" x="0" y="534" width="189" height="126" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 30003" x="189" y="534" width="189" height="108" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 40000" x="378" y="534" width="189" height="208"/>
+	<SubTexture name="loaded 40001" x="567" y="534" width="189" height="154" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 40002" x="756" y="534" width="189" height="138" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+	<SubTexture name="loaded 40003" x="0" y="742" width="189" height="108" frameX="0" frameY="0" frameWidth="189" frameHeight="208"/>
+</TextureAtlas>

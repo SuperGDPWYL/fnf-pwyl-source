@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ahfuckmyeye.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ahfuckmyeye0000" x="0" y="0" width="336" height="585" frameX="-116" frameY="-50" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0001" x="336" y="0" width="334" height="585" frameX="-116" frameY="-50" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0002" x="670" y="0" width="337" height="626" frameX="-48" frameY="-9" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0003" x="1007" y="0" width="385" height="635" frameX="0" frameY="0" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0004" x="1392" y="0" width="411" height="623" frameX="-35" frameY="-12" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0005" x="0" y="635" width="439" height="612" frameX="-69" frameY="-23" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0006" x="439" y="635" width="467" height="603" frameX="-95" frameY="-32" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0007" x="906" y="635" width="532" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0008" x="1438" y="635" width="409" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0009" x="0" y="1247" width="345" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0010" x="345" y="1247" width="345" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0011" x="0" y="1247" width="345" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0012" x="345" y="1247" width="345" height="593" frameX="-116" frameY="-42" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0013" x="690" y="1247" width="307" height="518" frameX="-116" frameY="-117" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0014" x="997" y="1247" width="307" height="524" frameX="-116" frameY="-111" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0015" x="1304" y="1247" width="307" height="530" frameX="-116" frameY="-105" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0016" x="690" y="1247" width="307" height="518" frameX="-116" frameY="-117" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0017" x="997" y="1247" width="307" height="524" frameX="-116" frameY="-111" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0018" x="1304" y="1247" width="307" height="530" frameX="-116" frameY="-105" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0019" x="690" y="1247" width="307" height="518" frameX="-116" frameY="-117" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0020" x="997" y="1247" width="307" height="524" frameX="-116" frameY="-111" frameWidth="648" frameHeight="635"/>
+	<SubTexture name="ahfuckmyeye0021" x="1304" y="1247" width="307" height="530" frameX="-116" frameY="-105" frameWidth="648" frameHeight="635"/>
+</TextureAtlas>

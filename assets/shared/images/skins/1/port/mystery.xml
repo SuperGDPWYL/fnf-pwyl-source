@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mystery.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mysteryport0000" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0001" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0002" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0003" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0004" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0005" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0006" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0007" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0008" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0009" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0010" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0011" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0012" x="0" y="0" width="269" height="585"/>
+	<SubTexture name="mysteryport0013" x="0" y="0" width="269" height="585"/>
+</TextureAtlas>
