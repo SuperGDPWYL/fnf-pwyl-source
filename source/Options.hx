@@ -25,7 +25,7 @@ class OptionCatagory
 		_options.remove(opt);
 	}
 
-	private var _name:String = "New Catagory";
+	private var _name:String = "New Category";
 	public final function getName() {
 		return _name;
 	}
@@ -85,7 +85,7 @@ class DFJKOption extends Option
 
 	private override function updateDisplay():String
 	{
-		return  FlxG.save.data.dfjk ? "DFJK" : "WASD";
+		return  FlxG.save.data.dfjk ? "DFJK" : "WASD" ;
 	}
 }
 
@@ -535,6 +535,9 @@ class OffsetMenu extends Option
 		return "Time your offset";
 	}
 }
+
+
+
 
 
 
