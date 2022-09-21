@@ -812,6 +812,23 @@ class PlayState extends MusicBeatState
 
 					
 			}
+			case 'electric' | 'reculculation' | 'on-the-ropes' | 'order': 
+				{
+					defaultCamZoom = 0.8;
+					curStage = 'corruptHide';
+					var bg:FlxSprite = new FlxSprite(-1000, -500).loadGraphic(Paths.image('vsCorruptBG'));
+					bg.antialiasing = true;
+					bg.scrollFactor.set(1,1);
+					bg.active = false;
+					add(bg);
+
+					jumpscareBlood = new FlxSprite( -198, -118).loadGraphic(Paths.image('bloodBlack'));
+					jumpscareBlood.antialiasing = true;
+					jumpscareBlood.scrollFactor.set(0, 0);
+					jumpscareBlood.visible = false;
+
+					
+			}
 			case 'old-fire' | 'sauce':
 				curStage = 'house';
 				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('background'));
@@ -1400,13 +1417,13 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 				case 'thorns':
 					schoolIntro(doof);
-				case 'high-stakes':
+				case 'high-stakes' | 'electric':
 					schoolIntro(doof);
-				case 'process-unstable':
+				case 'process-unstable' | 'recalculation':
 					schoolIntro(doof);
-				case 'insanity':
+				case 'insanity' | 'on-the-ropes':
 					schoolIntro(doof);
-				case 'life-or-death':
+				case 'life-or-death' | 'order':
 					schoolIntro(doof);
 				case 'bloodbath':
 					schoolIntro(doof);
@@ -2397,7 +2414,7 @@ class PlayState extends MusicBeatState
 			});
 		}
 
-		if(SONG.song.toLowerCase() == 'high-stakes' && storyDifficulty == 4 && curStep >= 1024 && curStep <= 1280 && SONG.notes[Math.floor(curStep/16)].mustHitSection)
+		if(SONG.song.toLowerCase() == 'high-stakes' && storyDifficulty == 4 && curStep >= 672 && curStep <= 1952 && SONG.notes[Math.floor(curStep/16)].mustHitSection)
 			health -= 0.0025;
 
 		if (curbg != null)
@@ -3422,8 +3439,10 @@ class PlayState extends MusicBeatState
 						if(SONG.song.toLowerCase() == 'life-or-death' && fuck)
 							health -= 1.1;
 
-						if(SONG.song.toLowerCase() == 'high-stakes' && storyDifficulty == 4 && curStep >= 1024 && curStep <= 1280)
-							health -= 0.018;
+						if(SONG.song.toLowerCase() == 'high-stakes' && storyDifficulty == 4 && curStep >= 672 && curStep <= 1310)
+							health -= 0.01;
+						if(SONG.song.toLowerCase() == 'high-stakes' && storyDifficulty == 4 && curStep >= 1312 && curStep <= 1952)
+							health -= 0.03;
 
 						if(SONG.song.toLowerCase() == 'fused' && daNote.type != 6)
 						{
@@ -5926,7 +5945,7 @@ class PlayState extends MusicBeatState
 						realHealth = health;
 						glitched = false;
 					}*/
-				case 512 | 959:
+				/*case 512 | 959:
 					if(SONG.song == 'Insanity')
 					{
 						realHealth = health;
@@ -5940,7 +5959,7 @@ class PlayState extends MusicBeatState
 							health = 0.01;
 						realHealth = health;
 						glitched = false;
-					}
+					}*/
 
 			}
 		}
@@ -6346,9 +6365,9 @@ class PlayState extends MusicBeatState
 		if(unstable)
 		{
 			if(curBeat % 2 == 0)
-				camHUD.angle = 45;
+				camHUD.angle = 5 + (20*storyDifficulty);
 			if(curBeat % 2 == 1)
-				camHUD.angle = -45;
+				camHUD.angle = -5 - (20*storyDifficulty);
 		}
 
 		if (generatedMusic)
