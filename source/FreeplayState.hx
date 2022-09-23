@@ -272,7 +272,7 @@ class FreeplayState extends MusicBeatState
 			else if (AllPossibleSongs[CurrentPack].toLowerCase() == 'playing with your life')
 			{
 				var initSonglist = CoolUtil.coolTextFile(Paths.txt('freeplaySonglist'));
-				addWeek(['High-Stakes', 'Process-Unstable', 'Insanity', 'Life-or-Death', 'Bloodbath'], 2, ['corrupt', 'corrupt', 'corrupt', 'corrupt', 'corruptsib']);
+				addWeek(['Electric', 'Process-Unstable', 'Insanity', 'Life-or-Death', 'Bloodbath'], 2, ['corrupt', 'corrupt', 'corrupt', 'corrupt', 'corruptsib']);
 				for (i in 0...initSonglist.length)
 				{	
 					var data:Array<String> = initSonglist[i].toLowerCase().split(':');
