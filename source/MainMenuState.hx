@@ -44,7 +44,7 @@ class MainMenuState extends MusicBeatState
 
 	public static var kadeEngineVer:String = "v1" + nightly;
 	public static var gameVer:String = "0.2.7.1";
-	public static var corruptVer:String = "v3.75";
+	public static var corruptVer:String = "v4";
 	public static var corruptDev:String = "";
 	public static var isDevVer:Bool = false;
 
