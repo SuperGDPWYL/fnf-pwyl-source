@@ -35,7 +35,7 @@ class FreeplayState extends MusicBeatState
 	var lerpScore:Int = 0;
 	var intendedScore:Int = 0;
 
-	private var AllPossibleSongs:Array<String> = ["Blast to The Past", "Playing With Your Life","Corrupt's Last Stand","RELOADED","Yakob's Contract","Covers"];
+	private var AllPossibleSongs:Array<String> = ["Blast to The Past", "PWYL v4", "Playing With Your Life","Corrupt's Last Stand","RELOADED","Yakob's Contract","Covers"];
 
 	private var CurrentPack:Int = 0;
 
@@ -268,6 +268,10 @@ class FreeplayState extends MusicBeatState
 				addWeek(['Old-Fire', 'Sauce', 'No-Escape', 'Jupiter'], 1, ['fireice', 'fireice', 'fireice-demigod','fireice-demigod']);
 				if(FlxG.save.data.crime)
 					addWeek(['Crime'], 1, ['rtx']);
+			}
+			else if (AllPossibleSongs[CurrentPack].toLowerCase() == 'pwyl v4')
+			{
+				addWeek(['Electric'], 2, ['corrupt']);
 			}
 			else if (AllPossibleSongs[CurrentPack].toLowerCase() == 'playing with your life')
 			{

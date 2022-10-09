@@ -19,7 +19,7 @@ class HardModeIsActuallyFuckingHardState extends MusicBeatState
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
 		add(bg);
 		var txt:FlxText = new FlxText(0, 0, FlxG.width,
-			"IMPORTANT NOTES:\n\nWe have a discord server you can find in Options.\nSome dialogue sequences have screen shaking so just be wary of that\nThe charts are intended for players who are skilled in rhythm games,\nso please don't complain about High Stakes's charting.\nYou can check the gimmicks for each song on the GameBanana page.\nBrutal Difficulty, a bonus Freeplay difficulty, is unlocked individually for every song when it is completed on Standard.\n\nNo, we did NOT \"steal\" Screwed from Dave and Bambi. After it got removed from D&B TPTF let us use Screwed in PWYL.\nI accidentally broke fullscreen lmao\nOne more thing: IT IS RECOMMENDED YOU DO NOT SKIM OVER THE MOD AS YOU WILL MOST LIKELY MISS OUT ON LORE AND HALF OF THE FUN\n\nPRESS SPACE, ENTER, ESCAPE OR BACKSPACE TO PASS THIS",
+			"THIS IS AN EARLY ALPHA OF V4\nYOU HAVE ACCESS TO SOME UNRELEASED CONTENT ALONGSIDE MOST RELEASED CONTENT\nALMOST NOTHING HERE IS FINAL, n0rmal_crew.",
 			32);
 		txt.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		txt.screenCenter();
