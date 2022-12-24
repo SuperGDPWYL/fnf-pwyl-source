@@ -174,7 +174,7 @@ class TitleState extends MusicBeatState
 			diamond.persist = true;
 			diamond.destroyOnNoUse = false;
 
-			FlxTransitionableState.defaultTransIn = new TransitionData(FADE, FlxColor.BLACK, 1, new FlxPoint(0, -1), {asset: diamond, width: 32, height: 32},
+			FlxTransitionableState.defaultTransIn = new TransitionData(FADE, FlxColor.BLACK, 1, new FlxPoint(1, 0), {asset: diamond, width: 32, height: 32},
 				new FlxRect(-200, -200, FlxG.width * 1.4, FlxG.height * 1.4));
 			FlxTransitionableState.defaultTransOut = new TransitionData(FADE, FlxColor.BLACK, 0.7, new FlxPoint(0, 1),
 				{asset: diamond, width: 32, height: 32}, new FlxRect(-200, -200, FlxG.width * 1.4, FlxG.height * 1.4));
@@ -195,7 +195,7 @@ class TitleState extends MusicBeatState
 			FlxG.sound.music.fadeIn(4, 0, 0.7);
 		}
 
-		Conductor.changeBPM(102);
+		Conductor.changeBPM(120);
 		persistentUpdate = true;
 
 		var bg:FlxSprite = new FlxSprite().makeGraphic(FlxG.width, FlxG.height, FlxColor.BLACK);
@@ -271,6 +271,8 @@ class TitleState extends MusicBeatState
 			initialized = true;
 
 		// credGroup.add(credTextShit);
+
+		FlxG.camera.zoom = 0.9;
 	}
 
 	function getIntroTextShit():Array<Array<String>>
@@ -398,6 +400,8 @@ class TitleState extends MusicBeatState
 		{
 			var money:Alphabet = new Alphabet(0, 0, textArray[i], true, false);
 			money.screenCenter(X);
+			money.alpha = 0;
+			FlxTween.tween(money, {alpha: 1}, 2);
 			money.y += (i * 60) + 200;
 			credGroup.add(money);
 			textGroup.add(money);
@@ -407,8 +411,10 @@ class TitleState extends MusicBeatState
 	function addMoreText(text:String)
 	{
 		var coolText:Alphabet = new Alphabet(0, 0, text, true, false);
+		coolText.alpha = 0;
 		coolText.screenCenter(X);
 		coolText.y += (textGroup.length * 60) + 200;
+		FlxTween.tween(coolText, {alpha: 1}, 2);
 		credGroup.add(coolText);
 		textGroup.add(coolText);
 	}
@@ -438,11 +444,18 @@ class TitleState extends MusicBeatState
 
 		switch (curBeat)
 		{
-			case 1:
-				createCoolText(['SuperGD Presents','Playing With Your Life']);
+			case 3:
+				FlxTween.tween(FlxG.camera, {zoom: 1}, 9);
+				//FlxG.camera.flash(FlxColor.BLACK, 2);
+				addMoreText("SuperGD");
+				
 				FlxG.save.flush();
 			// credTextShit.visible = true;
-			case 2:
+			case 6: 
+				addMoreText("presents");
+			case 9: 
+				addMoreText("Playing With Your Life");
+			case 12:
 				skipIntro();
 				
 				
